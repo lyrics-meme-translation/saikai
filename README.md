@@ -2,7 +2,7 @@
 ### 歌詞翻譯<br>
 [桜の接ぎ木のもとへ（回到接木之櫻）](https://lyrics-meme-translation.github.io/sakura-no-tsugiki/)
 
-<img src="https://pbs.twimg.com/media/EicCw8IUMAAz_mM.jpg" width="600" height="400"> <br>
+<img src="https://lineimg.omusic.com.tw/img/album/3183767.jpg?v=20210125173157" width="600" height="400"> <br>
 
 再会<br>
 是一首述說一段分隔兩地的戀情<br>
@@ -125,4 +125,4 @@
 願春天終會來訪
 願笑顏能再次相會
 ```
-[歌曲連結: ぼくのしーくれっと (Youtube)](https://www.youtube.com/watch?v=8LoBU5hj6zs)
+[歌曲連結: 再会 (Youtube)](https://www.youtube.com/watch?v=impSuIygMiQ)
